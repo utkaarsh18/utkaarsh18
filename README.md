@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **ReactJS, MongoDB, PowerBI, SQL**
 
-':react:'
+`:excel:`
 
 
 - 📫 How to reach me **utkaarshb@gmail.com**
