@@ -7,7 +7,9 @@
 
 - 🌱 I’m currently learning **ReactJS, MongoDB, PowerBI, SQL**
 
-`:excel:`
+I'm proficient in Excel 📊 and Power BI 📊, and I'm also familiar with Tableau 📊.
+
+[![Excel](https://www.microsoft.com/en-us/microsoft-365/excel)
 
 
 - 📫 How to reach me **utkaarshb@gmail.com**
