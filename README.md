@@ -6,7 +6,9 @@
 - 🔭 I’m currently working on **Frontend React Projects**
 
 - 🌱 I’m currently learning **ReactJS, MongoDB, PowerBI, SQL**
-:powerbi:
+
+':react:'
+
 
 - 📫 How to reach me **utkaarshb@gmail.com**
 
